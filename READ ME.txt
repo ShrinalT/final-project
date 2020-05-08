@@ -1,0 +1,3 @@
+Run calibrate first then
+run disparity and 
+you will have a reconstructed 3d model which we can see in meshlab
